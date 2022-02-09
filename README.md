@@ -12,9 +12,7 @@ HELLO
     - in way
 сноска [^1] сноска [^2]
 
-+ 3 Way
-    + in way
-    - un
+
 1. Number list
 2. GG
 1.1
